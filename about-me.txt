@@ -1,1 +1,2 @@
 Hello, my name is Uma. I am pursuing Bachelor of Technology from UIET,KUK.
+I have the knowledge of HTML, CSS, Bootstrap and I am learning Javascript.
